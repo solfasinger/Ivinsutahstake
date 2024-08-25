@@ -1,2 +1,1 @@
-# Test
-This is a test repository
+# ivinsutahstake.org
